@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "metro": [
+    {
+      "id": "c7f85dcb-0589-4773-91a2-f5864eeecc06",
+      "nombre": "Ruta55",
+      "sector": "quitumbe",
+      "salida": "Centro",
+      "llegada": "mena2",
+      "maquinista": "juancho",
+      "detalles": "hola soy juancho"
+    }
+  ]
+}
